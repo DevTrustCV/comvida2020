@@ -2,7 +2,7 @@
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
   "/index.html": "0131e1a0bbe004566566023ff5e4db33",
-"/main.dart.js": "9ab5ffa383bc45fc16752afd7d451f39",
+"/main.dart.js": "1395f359bfe661e50ec552770eda89b7",
 "/favicon.png": "fc6ffb47a86f385bdbddc388a1088dce",
 "/icons/favicon-16x16.png": "fc6ffb47a86f385bdbddc388a1088dce",
 "/icons/favicon.ico": "4cc33cdd42d404a17ef22218b62ae98d",
@@ -33,10 +33,7 @@ const RESOURCES = {
 "/icons/ms-icon-70x70.png": "19fbeafc842bca8ae0171c18a4fff90a",
 "/manifest.json": "fa253ea721084fc2cf57284f3d7bdcdf",
 "/assets/LICENSE": "248e8595d7c545aeaae716fbbcd39916",
-"/assets/AssetManifest.json": "53d9828f86ac1dab5f44e59112488943",
-"/assets/ios/Flutter/App.framework/flutter_assets/ios/.symlinks/plugins/flutter_hex_color/logo.png": "406deeaedfe5fb063cb49c938fba2587",
-"/assets/ios/Flutter/App.framework/flutter_assets/assets/noticia_test.png": "6e1ada1b3afc1f2f30036e9eea632803",
-"/assets/ios/Flutter/App.framework/flutter_assets/assets/logo.png": "23277d3c776c906559e42572158f4b9c",
+"/assets/AssetManifest.json": "ee9cde77276575be727a9487efeaf1cf",
 "/assets/ios/.symlinks/plugins/flutter_hex_color/logo.png": "406deeaedfe5fb063cb49c938fba2587",
 "/assets/FontManifest.json": "2b33098ecc47e8f215ac4d0dca0d5224",
 "/assets/packages/cupertino_icons/assets/CupertinoIcons.ttf": "115e937bb829a890521f72d2e664b632",
